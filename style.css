@@ -1,5 +1,43 @@
 h1
 {
     text-align: center;
-    color: blue;
+    color: rgb(255, 0, 0);
+    font-family: Arial;
+    text-shadow: 2px 2px 3px black;
+    font-size: 50;
 }
+
+.annee
+{
+    text-align: center;
+    font-weight: bold;
+    color: red;
+    font-size: 20;
+    font-family: Arial;
+}
+
+.pic
+{
+    text-align: center;
+}
+
+.titleimg
+{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    font-family: Arial;
+    font-size: 16;
+}
+
+table
+{
+    border-color: blue;
+    border-style:inherit;
+}
+
+.tableimg
+{
+    text-align: center;
+}
+
